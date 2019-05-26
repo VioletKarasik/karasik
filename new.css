@@ -1,0 +1,406 @@
+*{
+     text-decoration: none;
+}
+
+body {
+    
+    background-color: #ffddc4;
+    margin-left: 30px;
+    margin-bottom: 20px;   
+}
+main {
+    
+    background-color: #ffddc4;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    background-image: url(cologne-cathedral.png);
+    background-size: contain;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.fan {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 50px;
+    color: black;
+}
+.hi {
+    width: 100%;
+    height: 630px;
+    background-image: url(Srednie-veka-1-1024x536.jpg);
+    margin-left: -8px;
+    margin-top: -20px;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.hij {
+    width: 100%;
+    height: 630px;
+    background-image: url(bb.jpg);
+    margin-left: -8px;
+    margin-top: -20px;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.hijj {
+    width: 100%;
+    height: 630px;
+    background-image: url(65.jpg);
+    margin-left: -8px;
+    margin-top: -20px;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.higg {
+    width: 100%;
+    height: 630px;
+    background-image: url(img004.jpg);
+    margin-left: -8px;
+    margin-top: -20px;
+    background-size: contain;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 3px;
+}
+.higg1 {
+    width: 100%;
+    height: 50px;
+    background-image: url(img004.jpg);
+    margin-left: -8px;
+    margin-top: -20px;
+    background-size: contain;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 3px;
+}
+.ik {
+    width: 100px;
+    height: 50px;
+    background-image: url(ik.png);
+    background-size: contain;
+}
+.hover {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: #292929;
+    text-decoration: none;
+}
+.hover1 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: #292929;
+    text-decoration: none;
+}
+.hover2 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: #292929;
+}
+.hover3 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: #292929;
+}
+.sc {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 25px;
+    color: #000000;
+}
+.down {
+    width: 50px;
+    height: 50px;
+    background-image: url(dd.png);
+    background-size: contain;
+    
+    animation-name: pp;
+    animation-duration: 0.7s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+@keyframes pp {
+    from {transform: translateY(10px);}
+    to {transform: translateY(-15px);}
+}
+.fl4 {
+    display: flex;
+    justify-self: flex-end;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+}
+.fl {
+    text-decoration: none;
+}
+.next {
+    width: 50%;
+    height: 430px;
+    margin-left: -8px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 500px;
+    margin-bottom: 20px;
+}
+.nextj {
+    width: 50%;
+    height: 430px;
+    margin-left: -8px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 500px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.lor {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 25px;
+    color: black;
+    color: #fcc8a1;
+    margin-left: 260px;
+    font-weight: 500;
+}
+.lor1 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: black;
+    width: 350px;
+    text-align: left;
+    margin-left: 60px;
+    margin-left: 200px;
+}
+.lorjj {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 25px;
+    color: black;
+    color: #fcc8a1;
+    margin-left: 450px;
+}
+.lor1jj {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: black;
+    width: 350px;
+    text-align: left;
+    margin-left: 60px;
+    margin-left: 350px;
+}
+iframe {
+    margin-left: 200px;
+}
+.rome {
+    width: 400px;
+    height: 200px;
+    background-image: url(roman-1.jpg);
+    background-size: cover;
+    transition-duration: 0.7s;
+    margin-left: 200px;
+    -webkit-box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+-moz-box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+}
+.rome:hover {
+    transform: scale(1.1,1.1);
+}
+.rome1 {
+    width: 400px;
+    height: 200px;
+    background-image: url(8658.jpg);
+    background-size: cover;
+    transition-duration: 0.7s;
+    margin-left: 200px;
+    -webkit-box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+-moz-box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+}
+.rome1:hover {
+    transform: scale(1.1,1.1);
+}
+.two {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.newbody {
+    margin-left: -8px;
+    margin-top: 20px;
+}
+.romeh {
+    width: 400px;
+    height: 200px;
+    background-image: url(468-2.jpg);
+    background-size: cover;
+    transition-duration: 0.7s;
+    margin-left: 200px;
+    -webkit-box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+-moz-box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+}
+.romeh:hover {
+    transform: scale(1.1,1.1);
+}
+.rome1h {
+    width: 400px;
+    height: 200px;
+    background-image: url(av.jpeg);
+    background-size: cover;
+    transition-duration: 0.7s;
+    margin-left: 200px;
+    -webkit-box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+-moz-box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+box-shadow: 0px 5px 98px -26px rgba(209,171,144,1);
+}
+.rome1h:hover {
+    transform: scale(1.1,1.1);
+}
+@media (max-width: 1013px) {
+    .rome {
+        margin-left: 50px;
+    }
+    .romeh {
+        margin-left: 50px;
+    }
+    .rome1 {
+        margin-left: 50px;
+    }
+    .rome1h {
+        margin-left: 50px;
+    }
+    .lor {
+        margin-left: 200px;
+    }
+    .lor1 {
+        margin-left: 80px;
+    }
+    .iframe {
+        margin-left: 120px;
+    }
+    .iii {
+        width: 300px;
+        height: 250px;
+        margin-left: 100px;
+    }
+    .lorjj {
+        margin-left: 200px;
+    }
+    .lor1jj {
+        margin-left: 100px;
+    }
+    .know {
+        margin-left: 80px;
+    }
+}
+
+
+@media (max-width: 1274px) and (min-width: 1013px) {
+    .rome {
+        margin-left: 70px;
+    }
+    .romeh {
+        margin-left: 70px;
+    }
+    .rome1 {
+        margin-left: 70px;
+    }
+    .rome1h {
+        margin-left: 70px;
+    }
+    .lor {
+        margin-left: 200px;
+    }
+    .lor1 {
+        margin-left: 80px;
+    }
+    .iframe {
+        margin-left: 120px;
+    }
+    .iii {
+        width: 300px;
+        height: 250px;
+        margin-left: 100px;
+    }
+    .lorjj {
+        margin-left: 200px;
+    }
+    .lor1jj {
+        margin-left: 100px;
+    }
+    .know {
+        margin-left: 80px;
+    }
+}
+@media (min-width: 1274px) {
+    .iframe {
+        margin-left: 200px;
+    }
+    .iii {
+        margin-left: 25px;
+    }
+    .lorjj {
+        margin-left: 250px;
+    }
+    .lor1jj {
+        margin-left: 100px;
+    }
+    .lor {
+        margin-left: 200px;
+    }
+    .know {
+        margin-left: 200px;
+    }
+}
+.know {
+    width: 130px;
+    height: 30px;
+    background-color: #fc7550;
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    transition-duration: 0.7s;
+}
+.know:hover {
+    transform: scale(1.1,1.1);
+    background-color: #f79d85;
+}

@@ -1,0 +1,150 @@
+body {
+    
+    background-color: #f5f1f0;
+}
+.main {
+    width: 100%;
+    height: 630px;
+    background-image: url(Srednie-veka-1-1024x536.jpg);
+    margin-left: -8px;
+    margin-top: -8px;
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+}
+.p {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 70px;
+    color: white;
+    position: absolute;
+    margin-top: 350px;
+}
+.hi {
+    width: 1920px;
+    height: 100px;
+    position: absolute;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+.hover {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: white;
+    margin-right: 50px;
+}
+.hover1 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: white;
+    margin-right: 50px;
+}
+.hover2 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: white;
+    margin-right: 50px;
+}
+.hover3 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: white;
+}
+.fl {
+    display: flex;
+    margin-left: 30%;
+    position: absolute;
+    margin-top: -80px;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    background-image: url(cologne-cathedral.png);
+    background-size: contain;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.fan {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 35px;
+    color: white;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: -70px;
+}
+.sc {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 25px;
+    color: white;
+    margin-top: -110px;
+}
+.down {
+    width: 50px;
+    height: 50px;
+    background-image: url(dd.png);
+    background-size: contain;
+    margin-top: -50px;
+    
+    animation-name: pp;
+    animation-duration: 0.7s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+@keyframes pp {
+    from {transform: translateY(0px);}
+    to {transform: translateY(-20px);}
+}
+.next {
+    width: 100%;
+    height: 430px;
+    margin-left: -8px;
+    background-color: yellow;
+    display: flex;
+    align-content: center;
+}
+.rome {
+    width: 400px;
+    height: 200px;
+    background-image: url(roman-1.jpg);
+    background-size: cover;
+    margin-top: 200px;
+    transition-duration: 0.7s;
+}
+.rome:hover {
+    transform: scale(1.1,1.1);
+}
+.lor {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 25px;
+    color: black;
+    margin-top: -590px;
+    margin-left: 60px;
+}
+.lor1 {
+    font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    color: black;
+    width: 350px;
+    text-align: left;
+    margin-left: 60px;
+}
+.rome1 {
+    width: 400px;
+    height: 200px;
+    background-image: url(8658.jpg);
+    background-size: cover;
+    margin-top: 200px;
+    transition-duration: 0.7s;
+}
+.rome1:hover {
+    transform: scale(1.1,1.1);
+}
